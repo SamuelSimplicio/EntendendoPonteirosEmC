@@ -1,0 +1,14 @@
+﻿"Project12.exe" (Win32): Carregado "C:\Users\samue\source\repos\Project12\Debug\Project12.exe". Símbolos carregados.
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntdll.dll". Símbolos carregados.
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel32.dll". 
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\KernelBase.dll". 
+"Project12.exe" (Win32): Carregado "C:\Program Files\Avast Software\Avast\x86\aswhook.dll". 
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\vcruntime140d.dll". Símbolos carregados.
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\ucrtbased.dll". Símbolos carregados.
+O thread 0x27bc foi fechado com o código 0 (0x0).
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\sechost.dll". Símbolos carregados.
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel.appcore.dll". Símbolos carregados.
+"Project12.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcrt.dll". Símbolos carregados.
+O thread 0x3bec foi fechado com o código 0 (0x0).
+O thread 0x838 foi fechado com o código 0 (0x0).
+O programa "[7284] Project12.exe" foi fechado com o código 0 (0x0).
